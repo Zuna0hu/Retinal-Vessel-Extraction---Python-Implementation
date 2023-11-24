@@ -1,0 +1,11 @@
+Eysteinn Már Sigurðsson, Silvia Valero, Jón Atli Benediktsson, Jocelyn Chanussot, Hugues Talbot, Einar Stefánsson,
+Automatic retinal vessel extraction based on directional mathematical morphology and fuzzy classification,
+Pattern Recognition Letters,
+Volume 47,
+2014,
+Pages 164-171,
+ISSN 0167-8655,
+https://doi.org/10.1016/j.patrec.2014.03.006.
+(https://www.sciencedirect.com/science/article/pii/S0167865514000865)
+Abstract: The problem of detecting blood vessels in retinal color fundus images is addressed. An unsupervised method based on the extraction of two vessel features vectors in order to detect the pixels belonging to the vessel tree is presented. The proposed vessel features rely on the contrast of vessels and their linear connectivity. The extraction of these features is performed by using advanced morphological directional filter called path openings. The resulting features are used to carry out a data fusion task based on fuzzy set theory. As a result, pixel classification can easily be performed to construct a vessel map. Experimental results using real data have demonstrated the ability of the proposed method to successfully extract a good quality vessel tree. The obtained results are compared with results obtained by classical vessel extraction techniques.
+Keywords: Fundus image; Mathematical morphology; Path openings; Image fusion; Fuzzy sets
