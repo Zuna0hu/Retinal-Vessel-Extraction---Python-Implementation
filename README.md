@@ -13,7 +13,6 @@ The goal of this project is to perform retinal vessel extraction using the metho
 ## Features
 - Feature 1: Implementation in Python
 - Feature 2: Achieved high accuracy in Retinal vessel extraction from digital retinal images.
-- ...
 
 ## Result
 
