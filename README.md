@@ -1,6 +1,6 @@
 # Retinal Vessel Extraction
 
-This project is part of the COMP 6771 - Image Processing course at Concordia University. The implemented Python code realizes the method proposed by Bob Zhang in the paper titled "Retinal vessel extraction by matched filter with first-order derivative of Gaussian" [DOI Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482510000302).
+This project is part of the COMP 6771 - Image Processing course at Concordia University. The implemented Python code realizes the method proposed by Bob Zhang in the paper titled "Retinal vessel extraction by matched filter with first-order derivative of Gaussian" [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482510000302).
 
 
 ## Overview
